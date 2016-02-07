@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 36041e028b72b4c23b9038e308695a99
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tapIndicatorPrefab: {instanceID: 0}
+  - fireGroundSpellPrefab: {instanceID: 0}
+  - characterTrans: {instanceID: 0}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
